@@ -1,0 +1,1 @@
+export const BASE_URL:String = 'https://qa.corider.in/assignment/chat';
